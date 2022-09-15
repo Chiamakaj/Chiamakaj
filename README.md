@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chiamakaj
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on several interesting projects
 - 📫 How to reach me ...
